@@ -18,7 +18,7 @@ if(true){
     console.log('La condición es verdadera');
 }
 
-// Condición false: Esto dará error ya que no puede haber condición falsa.
+// Condición false: Esto dará error ya que no puede haber condición falsa:
 if(false){
     console.log('La condición es falsa');
 }
@@ -28,7 +28,7 @@ if(!false){
     console.log('Ahora la operación es verdadera');
 }
 
-// Ejercicio de condicionales
+// Ejercicio de condicionales:
 var numero_uno = 23
 var numero_dos = 19
 

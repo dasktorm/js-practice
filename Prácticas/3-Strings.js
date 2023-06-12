@@ -1,16 +1,16 @@
-// Ejemplo de String.
+// Ejemplo de String:
 var string = "Hola, Mundo!";
 console.log(string);
 
-// Concatenación.
+// Concatenación:
 var nombre = "Dámaso";
 var string = "Hola, " + nombre;
 console.log(string);
 
-// Obtener la longitud de una string con ".length": Esto nos imprimirá la cantidad de carácteres.
+// Obtener la longitud de una string con ".length": Esto nos imprimirá la cantidad de carácteres:
 console.log(cadena.length);
 
-// Buscar valores específicos con ".indexOf".
+// Buscar valores específicos con ".indexOf":
 var resultado = cadena.indexOf("Dámaso");
 console.log(resultado);
 
@@ -39,7 +39,7 @@ console.log(nombre.charAt(1)); // Esto imprimirá "á"
 nombre = nombre.replace("D", "A");
 console.log(nombre); // Esto imprimirá "Aámaso"
 
-// Obtención de pedazos con "slice"
+// Obtención de pedazos con "slice":
 console.log(nombre.slice(2,3)) // Esto imprimirá "m"
 
 // Como pasar todo a mayúsculas y minúsculas:
