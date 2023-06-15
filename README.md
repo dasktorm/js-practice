@@ -1,4 +1,4 @@
-Prácticas de JavaScript:
+// Prácticas de JavaScript:
 1. Variables
 2. Números y Aritmética
 3. Strings
@@ -6,7 +6,7 @@ Prácticas de JavaScript:
 5. Ciclo While
 6. Ciclo For
 7. typeof, null y undefined
-P1. Práctica 1
+P1. Número Mágico
 8. Selección de elementos con DOM
 9. Eventos
 10. Arreglos
@@ -18,7 +18,7 @@ P1. Práctica 1
 16. "reduce" ES5
 17. Closures
 18. JSON
-19. Declarar Objetos con Funciones
+19. Declarar objetos con funciones
 20. Prototype
 21. Getters y Setters
 P2. Práctica MVC
