@@ -1,4 +1,4 @@
-// Prácticas de JavaScript:
+Prácticas de JavaScript:
 1. Variables
 2. Números y Aritmética
 3. Strings
@@ -6,6 +6,7 @@
 5. Ciclo While
 6. Ciclo For
 7. typeof, null y undefined
+
 P1. Número Mágico
 8. Selección de elementos con DOM
 9. Eventos
@@ -21,6 +22,7 @@ P1. Número Mágico
 19. Declarar objetos con funciones
 20. Prototype
 21. Getters y Setters
+
 P2. Práctica MVC
 22. Template Strings (ES6)
 23. Arrow Functions (ES6)
