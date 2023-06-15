@@ -8,7 +8,7 @@ var string = "Hola, " + nombre;
 console.log(string);
 
 // Obtener la longitud de una string con ".length": Esto nos imprimirá la cantidad de carácteres:
-console.log(cadena.length);
+console.log(string.length);
 
 // Buscar valores específicos con ".indexOf":
 var resultado = cadena.indexOf("Dámaso");
@@ -45,4 +45,3 @@ console.log(nombre.slice(2,3)) // Esto imprimirá "m"
 // Como pasar todo a mayúsculas y minúsculas:
 console.log(nombre.toUpperCase()); // Para mayúsculas
 console.log(nombre.toLowerCase()); // Para minúsculas
-
