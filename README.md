@@ -6,8 +6,6 @@ Prácticas de JavaScript:
 5. Ciclo While
 6. Ciclo For
 7. typeof, null y undefined
-
-P1. Número Mágico
 8. Selección de elementos con DOM
 9. Eventos
 10. Arreglos
@@ -22,11 +20,13 @@ P1. Número Mágico
 19. Declarar objetos con funciones
 20. Prototype
 21. Getters y Setters
-
-P2. Práctica MVC
 22. Template Strings (ES6)
 23. Arrow Functions (ES6)
 24. Clases (ES6)
 25. "let" (ES6)
 26. DOM, crear y agregar nodos
 27. DOM, hijos y padres
+
+Ejercicios Prácticos:
+P1. Número Mágico
+P2. Práctica MVC
