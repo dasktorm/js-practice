@@ -31,4 +31,3 @@ function $(selector){
 }
 
 var my_class = $(".my_class");
-

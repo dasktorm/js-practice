@@ -42,4 +42,3 @@ var i = arreglo.length;
 for(;i >= 0; i--){
     console.log(arreglo[i]);
 }
-

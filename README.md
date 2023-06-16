@@ -30,3 +30,7 @@ Prácticas de JavaScript:
 Ejercicios Prácticos:
 P1. Número Mágico
 P2. Práctica MVC
+
+Creditos:
+1. Código Facilito
+2. MDN Web Docs

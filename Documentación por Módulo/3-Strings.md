@@ -71,10 +71,3 @@ Las cadenas son útiles para almacenar datos que se pueden representar en forma 
         console.log(string.toLowerCase());
 
         // Resultado = "hola, sigo siendo un ejemplo".
-
-
-
-
-
-
-

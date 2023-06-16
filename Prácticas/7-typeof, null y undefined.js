@@ -36,7 +36,3 @@ hola = hola + otra_cosa; // "otra_cosa is undefined"
 // null + undefined:
 if(null == undefined){
     console.log("Esta variable no está declarada");} // Al usar "==" estas dos var retornan verdadero.
-
-
-
-

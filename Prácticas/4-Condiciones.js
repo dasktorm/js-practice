@@ -2,7 +2,7 @@
 Operadores lógicos de las condiciones y booleanos:
 Bool -> true / false
 
-Or ||
+Or |
 And &&
 Igual ==
 Igual ===

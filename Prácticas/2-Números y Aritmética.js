@@ -31,9 +31,3 @@ function es_par(numero){
     }
     return false;
 }
-
-
-
-
-
-
