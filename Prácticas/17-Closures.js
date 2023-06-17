@@ -1,4 +1,4 @@
-// Ejemplo from "html"
+// Ejemplo from "html":
     (function(){
 
         document.getElementById('btn').addEventListener("click",function(){
